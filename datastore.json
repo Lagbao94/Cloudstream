@@ -44,7 +44,7 @@
   "0/result_season/-937839935" : "0",
   "0/result_episode/1773239459" : "0",
   "0/result_season/-1333951779" : "0",
-  "FILES_TO_DELETE_KEY" : "[]",
+  "FILES_TO_DELETE_KEY" : "[\"/data/user/0/com.lagradost.cloudstream3/cache/exoplayer\"]",
   "0/result_dub/-1472442428" : "0",
   "download_header_cache/788155816" : "{\"apiName\":\"xNhau\",\"url\":\"https://xnhau.network/video/533859/o-nha-mot-minh-the-la-may-nat-lon-voi-anh-roi-con-em-ho-thich-tha-rong-va-cai-ket-3/\",\"type\":\"NSFW\",\"name\":\"“Ở nhà một mình thế là mày nát lồn với anh rồi” con em họ thích thả rông và cái kết 3\",\"poster\":\"https://xnhau.network/contents/videos_screenshots/533000/533859/preview.jpg\",\"cacheTime\":1788642182000,\"id\":788155816}",
   "0/result_episode/-1559908457" : "0",
@@ -81,6 +81,7 @@
   "download_queue_key" : "[]",
   "download_header_cache/1623320197" : "{\"apiName\":\"xNhau\",\"url\":\"https://xnhau.network/video/410908/bam-duoi-quay-len-em-gai-tha-rong-ngoai-duong/\",\"type\":\"NSFW\",\"name\":\"Bám đuôi quay lén em gái thả rông ngoài đường\",\"poster\":\"https://xnhau.network/contents/videos_screenshots/410000/410908/preview.jpg\",\"cacheTime\":1788642030155,\"id\":1623320197}",
   "0/video_pos_dur/562149151" : "{\"position\":1997452,\"duration\":2407400}",
+  "0/video_pos_dur/-1295114127" : "{\"position\":1322,\"duration\":1470010}",
   "VERSION_NAME" : "\"4.8.0-PRE\"",
   "HAS_DONE_SETUP" : "true",
   "0/result_dub/1583155304" : "0",
@@ -180,9 +181,10 @@
   "download_header_cache/712495838" : "{\"apiName\":\"xNhau\",\"url\":\"https://xnhau.network/video/104387/clip-sex-duong-vu-bu-gai-viet-thu-dam-khong-the-bo-quaa/\",\"type\":\"NSFW\",\"name\":\"Clip Sex Dương Vú Bự Gái Việt Thủ Dâm Không Thể Bỏ Quaa\",\"poster\":\"https://xnhau.network/contents/videos_screenshots/104000/104387/preview.jpg\",\"cacheTime\":1788642106914,\"id\":712495838}",
   "download_episode_cache/-846190833/-846190833" : "{\"name\":\"Quáy len gái xinh không mặc quân lót gạ trai trên tàu điện lồn múp không lông\",\"episode\":0,\"parentId\":-846190833,\"cacheTime\":1789460157706,\"id\":-846190833}",
   "download_info/-846190833" : "{\"totalBytes\":12097062,\"relativePath\":\"NSFW\",\"displayName\":\"Quáy len gái xinh không mặc quân lót gạ trai trên tàu điện lồn múp không lông.mp4\",\"basePath\":\"content://com.android.externalstorage.documents/tree/primary%3ADownload%2FTelegram\",\"linkHash\":774793291}",
-  "0/duration_mode" : "false",
+  "0/duration_mode" : "true",
   "0/result_episode/2009690082" : "0",
   "0/result_resume_watching_2/-232527615" : "{\"parentId\":-232527615,\"episodeId\":-232527610,\"episode\":4,\"season\":null,\"updateTime\":1788963190033,\"isFromDownload\":false}",
   "0/result_season/1492714815" : "0",
+  "0/result_resume_watching_2/-1295114145" : "{\"parentId\":-1295114145,\"episodeId\":-1295114127,\"episode\":17,\"season\":null,\"updateTime\":1789644475072,\"isFromDownload\":false}",
   "download_header_cache/-1559908457" : "{\"apiName\":\"xNhau\",\"url\":\"https://xnhau.network/video/315440/sang-nha-em-gai-thay-em-tha-rong-so-mo-ti/\",\"type\":\"NSFW\",\"name\":\"sang nhà em gái thấy em thả rông sờ mó tí\",\"poster\":\"https://xnhau.network/contents/videos_screenshots/315000/315440/preview.jpg\",\"cacheTime\":1788642010431,\"id\":-1559908457}"
 }
