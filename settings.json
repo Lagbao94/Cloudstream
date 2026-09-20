@@ -29,5 +29,6 @@
   "enable_skip_op_from_database" : true,
   "enable_nsfw_on_providers_key" : true,
   "display_sub_key" : [ "Subbed", "Dubbed", "None" ],
-  "autoplay_next_key" : true
+  "autoplay_next_key" : true,
+  "provider_lang_key" : [ "vi", "universal" ]
 }
