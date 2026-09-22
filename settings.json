@@ -7,6 +7,7 @@
   "swipe_enabled_key" : true,
   "download_parallel_key" : 3,
   "double_tap_seek_time_key2" : 10,
+  "skip_update_key" : "RE_kwDOHxC4c84XckLU",
   "swipe_vertical_enabled_key" : true,
   "auto_update" : true,
   "download_path_key" : "content://com.android.externalstorage.documents/tree/primary%3ADownload%2FTelegram",
