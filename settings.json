@@ -25,7 +25,7 @@
   "player_resize_enabled_key" : true,
   "auto_download_plugins_key2" : 0,
   "prefer_media_type_key_2" : [ "0", "1", "2", "4", "10" ],
-  "sync_last_push_hash" : "99c4f098b74f1d0f8b5090de0e2bd0e618a46d6fffeec729b00aa4f7de322191",
+  "sync_last_push_hash" : "208a80bb46bc943ec742cd6374928f5a0f477d34a6f9737004820e688679da02",
   "double_tap_enabled_key" : false,
   "pip_enabled_key" : true,
   "playback_speed_enabled_key" : false,
