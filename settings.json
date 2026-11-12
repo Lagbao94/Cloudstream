@@ -25,7 +25,7 @@
   "hide_player_control_names_key" : false,
   "player_resize_enabled_key" : true,
   "prefer_media_type_key_2" : [ "0", "1", "2", "3", "4", "10" ],
-  "sync_last_push_hash" : "d60f32ae5175a6fe2fcdb415ba307ec9cf3cd54f24dd637e87a835196eac496d",
+  "sync_last_push_hash" : "1cc678ed961edf4d7c713299ce0f622927a6a69bbb415060eb72c564c19c712f",
   "double_tap_enabled_key" : false,
   "pip_enabled_key" : true,
   "app_locale" : "vi",
