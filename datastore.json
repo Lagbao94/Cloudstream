@@ -614,7 +614,7 @@
   "0/result_season/1588117654" : "0",
   "0/result_episode/-846190833" : "0",
   "0/result_season/241026879" : "0",
-  "subtitle_settings" : "{\"foregroundColor\":-1,\"backgroundColor\":16711910,\"windowColor\":15132390,\"edgeType\":1,\"edgeColor\":-16777216,\"font\":\"Netflix\",\"elevation\":20,\"removeCaptions\":false,\"removeBloat\":true,\"upperCase\":false,\"bold\":true,\"italic\":false,\"backgroundRadius\":10.0}",
+  "subtitle_settings" : "{\"foregroundColor\":-1,\"backgroundColor\":16711910,\"windowColor\":15132390,\"edgeType\":2,\"edgeColor\":-16777216,\"font\":\"Netflix\",\"elevation\":20,\"edgeSize\":5.0,\"removeCaptions\":false,\"removeBloat\":true,\"upperCase\":false,\"bold\":false,\"italic\":false,\"backgroundRadius\":10.0}",
   "0/result_season/3602608" : "0",
   "data_store_helper/account_key_index" : "0",
   "download_info/460428757" : "{\"totalBytes\":2734771027,\"relativePath\":\"Movies\",\"displayName\":\"TRỪ TÀ KÝ KHỞI NGUYÊN HẮC ÁM.mp4\",\"basePath\":\"content://com.android.externalstorage.documents/tree/primary%3AMovies\",\"linkHash\":1366588824}",
