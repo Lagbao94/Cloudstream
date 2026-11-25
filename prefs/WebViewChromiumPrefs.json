@@ -1,3 +1,6 @@
 {
-  "lastVersionCodeUsed" : 810305203
+  "lastVersionCodeUsed" : 810305203,
+  "CachedFlagsEnabled" : [ "WebViewMultiProfileSkipDefaultProfile", "EnablePerfettoSystemTracing", "WebViewMoveWorkToProviderInit" ],
+  "CachedFlagsDisabled" : [ ],
+  "CachedParams" : [ ]
 }
