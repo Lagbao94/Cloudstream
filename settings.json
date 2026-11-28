@@ -30,7 +30,7 @@
   "prefer_media_type_key_2" : [ "0", "1", "2", "3", "4", "10" ],
   "dns_key" : 2,
   "show_media_info" : true,
-  "sync_last_push_hash" : "1c6272c1244acf6a2ef98f7a674b63aa891ee945ee1a0df8fbb0e6045051c037",
+  "sync_last_push_hash" : "a1c80d479756c595b5fd6f778dde154c77cf148a7b37068e8155012d93dd81ec",
   "double_tap_enabled_key" : false,
   "pip_enabled_key" : true,
   "app_locale" : "vi",
