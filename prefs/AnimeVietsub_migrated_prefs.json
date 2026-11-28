@@ -1,3 +1,5 @@
 {
-  "migrated_domain_cache" : "animevietsub.nl"
+  "migrated_domain_cache" : "animevietsub.zone",
+  "healed_v44" : true,
+  "known_hosts" : "[\"animevietsub.li\",\"animevietsub.zone\"]"
 }
