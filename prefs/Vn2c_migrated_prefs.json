@@ -1,5 +1,5 @@
 {
-  "migrated_domain_cache" : "vn2c.my",
+  "migrated_domain_cache" : "vn2e.my",
   "healed_v44" : true,
-  "known_hosts" : "[\"vn2c.my\"]"
+  "known_hosts" : "[\"vn2c.my\",\"vn2e.my\"]"
 }
